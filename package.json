@@ -1,0 +1,28 @@
+{
+  "name": "kaolabear",
+  "version": "1.0.3",
+  "description": "Tính Hiệu Số Bất Kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sign-alex": "^1.0.0",
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "ghost": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hangpham111986/kaolabear"
+  },
+  "homepage": "https://github.com/hangpham111986",
+  "keywords": [
+    "sign",
+    "add",
+    "sign",
+    "apart"
+  ],
+  "author": "hangpham",
+  "license": "KLO"
+}
